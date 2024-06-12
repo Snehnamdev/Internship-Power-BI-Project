@@ -7,11 +7,11 @@ By leveraging Power BI's visualization tools, the project aims to provide action
 
 Data Source:-
 
-Call Centre Dataset : This dataset is from PwC Switzerland Virtual Internship Program offered by Forage, which containing call records from a customer service center. Each row represents a call with various attributes such as Call Id, Agent, Date, Time, Topic, whether it was Answered (Yes/No), Resolved, Speed of answer in seconds, and Average Talk Duration.
+Call Centre Dataset : This dataset is from **PwC Switzerland Virtual Internship Program offered by Forage**, which containing call records from a customer service center. Each row represents a call with various attributes such as Call Id, Agent, Date, Time, Topic, whether it was Answered (Yes/No), Resolved, Speed of answer in seconds, and Average Talk Duration.
 
 Tools Used:-
 
-PowerBI - Creating Dashboards, Data Visualization
+PowerBI - For Dashboards, Data Visualization, DAX Funcations
 
 Key Metrics Highlighted:-
 
